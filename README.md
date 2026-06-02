@@ -84,3 +84,6 @@ python data_pipeline/generate_museum_data.py
 
 3. Open power_bi/digitization_ops.pbix in Power BI Desktop to inspect the live data model connections and interact with the executive canvas.
 
+# Power BI
+
+![NMNH Executive Dashboard Screenshot](images/powerBIpic.png)
